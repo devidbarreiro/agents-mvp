@@ -1,0 +1,29 @@
+# Ignore data folders and files
+data/
+data/assignments/
+data/evaluations/
+data/submissions/
+data/assignments.json
+data/evaluations.json
+data/submissions.json
+
+# Ignore virtual environment
+venv/
+
+# Ignore environment variables
+.env
+
+# Ignore main files you don't want in repo
+app.py
+largellm.ipynb
+Prompt SoW.txt
+Solution.md
+
+# Optional: ignore this gitignore itself (usually not recommended)
+# .gitignore
+
+# Ignore Python dependency list
+requirements.txt
+
+# Ignore markdown and documentation
+README.md
